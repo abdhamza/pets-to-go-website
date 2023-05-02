@@ -17,3 +17,23 @@ navBar.forEach(function (a) {
     })
 })
 
+
+jQuery(document).ready(function () {
+    var offset = 250;
+    var duration = 300;
+    jQuery(window).scroll(function () {
+        if (jQuery(this).scrollTop() > offset) {
+            jQuery('.back-to-top').fadeIn(duration);
+        } else {
+            jQuery('.back-to-top').fadeOut(duration);
+        }
+    });
+    jQuery('.back-to-top').click(function (event) {
+        file:///K|/My%20Udemy%20Courses/Start%20your%20own%20web%20design%20business/back%20to%20top.txt[1/16/2017 3:49:46 PM]
+        event.preventDefault();
+        jQuery('html, body').animate({ scrollTop: 0 }, duration);
+        return false;
+    })
+});
+
+
