@@ -25,22 +25,17 @@ To experience the frontend design, you can follow these steps:
 1. Clone the Repository: Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/pets-frontend-design.git
+def greet(name):
+print(f"Hello, {name}!")
+```
 
 2. Open index.html: Navigate to the project directory and open the index.html file in your preferred web browser. You will be able to explore the complete frontend design.
 
 ## Contributions
-
-I will always welcome contributions to enhance the design further. If you have any suggestions, bug fixes, or new features to add, feel free to create a pull request. Please ensure that your contributions align with the project's goals and adhere to best practices.
+I would always welcome contributions to enhance the design further. If you have any suggestions, bug fixes, or new features to add, feel free to create a pull request. Please ensure that your contributions align with the project's goals and adhere to best practices.
 
 ## Credits
-
 This frontend design was created with great efforts drawing inspiration from Bootstrap's amazing features and design principles.
 
 ## License
-
 The "Pets Website Frontend Design using Bootstrap" repository is open-source and licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
-
-I hope you enjoy exploring the frontend design of the pets to go website. Feel free to provide feedback and share your thoughts. Happy browsing!
-
-abdhamza
