@@ -25,7 +25,7 @@ To experience the frontend design, you can follow these steps:
 1. Clone the Repository: Clone this repository to your local machine using the following command:
 
 ```bash
-git@github.com:abdhamza/pets-to-go-website.git
+git clone https://github.com/abdhamza/pets-to-go-website.git
 ```
 
 2. Open index.html: Navigate to the project directory and open the index.html file in your preferred web browser. You will be able to explore the complete frontend design.
