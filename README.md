@@ -38,3 +38,5 @@ This frontend design was created with great efforts drawing inspiration from Boo
 
 ## License
 The "Pets Website Frontend Design using Bootstrap" repository is open-source and licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
+
+![Landing page](website-images/mobvisual3.png) 
